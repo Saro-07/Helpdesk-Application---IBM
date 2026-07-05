@@ -2,6 +2,9 @@
 
 A modern, full-stack helpdesk application built with React and Node.js, inspired by Zoho Desk.
 
+## 🚀 Live Demo
+👉 [**Helpdesk Application on Vercel**](https://helpdesk-deployed.vercel.app/)
+
 ## Features
 
 - **Role-Based Access Control**: SUPER_ADMIN, ADMIN, AGENT, MANAGER, CUSTOMER
